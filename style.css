@@ -10,3 +10,12 @@ body {
     margin-right: 200px;
 }
 
+
+
+img {
+    height: 300px;
+    text-align: flex end;
+
+    margin-right: 500px;
+}
+
