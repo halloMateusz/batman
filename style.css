@@ -8,8 +8,16 @@ body {
 
     margin-left: 200px;
     margin-right: 200px;
+    font-family: 'Comic Sans Ms', cursive;
 }
 
+h1 {
+    font-family: fantasy;
+    color: yellow;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: lighter;
+}
 
 
 img {
@@ -18,4 +26,3 @@ img {
 
     margin-right: 500px;
 }
-
